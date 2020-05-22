@@ -1,1 +1,2 @@
 # Java-Programming-Build-a-Recommendation-System
+[![Run on Repl.it](https://repl.it/badge/github/erkinaiSh/Java-Programming-Build-a-Recommendation-System)](https://repl.it/github/erkinaiSh/Java-Programming-Build-a-Recommendation-System)
